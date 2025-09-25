@@ -20,7 +20,7 @@ Here are some of the technologies I've been working with recently:
 
 <p align="center">
   <img height="300em" src="https://github-readme-stats.vercel.app/api?username=KalininVD&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_rank=true&show=prs_merged"/>
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalininVD&layout=pie&langs_count=10&theme=dark"/>
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalininVD&layout=pie&langs_count=6&theme=dark"/>
 </p>
 
 ---
